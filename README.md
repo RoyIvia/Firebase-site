@@ -64,3 +64,6 @@ The `new.sh` file is a shell script that contains the commands a new Firebase pr
     ```
 9. View the website URL in the console
 10. Enjoy the hosted task management website!
+
+##Author 
+Roy Ivia
